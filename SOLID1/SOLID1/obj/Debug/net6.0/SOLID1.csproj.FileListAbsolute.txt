@@ -1,0 +1,15 @@
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\bin\Debug\net6.0\SOLID1.exe
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\bin\Debug\net6.0\SOLID1.deps.json
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\bin\Debug\net6.0\SOLID1.runtimeconfig.json
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\bin\Debug\net6.0\SOLID1.dll
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\bin\Debug\net6.0\SOLID1.pdb
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.csproj.AssemblyReference.cache
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.AssemblyInfoInputs.cache
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.AssemblyInfo.cs
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.csproj.CoreCompileInputs.cache
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.dll
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\refint\SOLID1.dll
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.pdb
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\SOLID1.genruntimeconfig.cache
+C:\Users\Trung.Vo\source\repos\SOLID1\SOLID1\obj\Debug\net6.0\ref\SOLID1.dll
